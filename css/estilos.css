@@ -1,10 +1,6 @@
 body
 {
-<<<<<<< HEAD
-    color: blue;
-=======
-    color: red;
->>>>>>> a31755b (Modifique la cabecera y el color del texto)
+    color: #000;
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -45,4 +41,11 @@ body
 #post
 {
     padding: 1em;
+}
+
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 00.5em;
 }
